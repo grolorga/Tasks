@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="screen_title">Мои задачи</string>
+    <string name="task_name_hint">Что нужно сделать?</string>
+    <string name="task_name_required">Введите название задачи</string>
+    <string name="save_task">Сохранить задачу</string>
+    <string name="tasks_empty">Задач пока нет</string>
+    <string name="tasks_list_description">Сохранённые задачи</string>
+</resources>
